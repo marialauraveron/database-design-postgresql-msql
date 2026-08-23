@@ -15,7 +15,13 @@ The project was developed using PostgreSQL and MySQL.
 
 **Context:** Practical project developed as part of the IBM Data Engineering program, based on a simulated business scenario.
 
+## Database Design
 
+The database structure was designed using an Entity-Relationship Diagram (ERD) in pgAdmin.
+
+### Entity-Relationship Diagram
+
+![Database ERD](ERD/database_erd.jpg)
 ## Project Objectives
 
 The main objectives of the project were:
