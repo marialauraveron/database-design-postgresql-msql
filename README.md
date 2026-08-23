@@ -159,6 +159,28 @@ As part of the project, the exported datasets were imported into a MySQL databas
 
 This step provided practical experience working with different relational database management systems and transferring data between PostgreSQL and MySQL environments.
 
+## Project Screenshots
+
+### PostgreSQL — JOIN Query
+
+The following query combines product and product type information using a SQL JOIN.
+
+![PostgreSQL JOIN Query](screenshots/postgresql_join_query.jpg)
+
+### MySQL — Product Data Import
+
+Product data exported from PostgreSQL and imported into MySQL using phpMyAdmin.
+
+![MySQL Product Import](screenshots/mysql_product_import.jpg)
+
+### MySQL — Staff Locations Import
+
+Staff and location data exported from PostgreSQL and imported into MySQL using phpMyAdmin.
+
+![MySQL Staff Locations Import](screenshots/mysql_staff_locations_import.jpg)
+
+---
+
 ---
 
 ## Key Learnings
