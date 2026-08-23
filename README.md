@@ -74,6 +74,7 @@ The repository is organized as follows:
 * **ERD/** — Contains the Entity-Relationship Diagram (ERD) of the database.
 * **PostgreSQL/** — Contains the SQL scripts used to create the database structure and load the data.
 * **exports/** — Contains the datasets exported from the PostgreSQL view and materialized view.
+* **screenshots/** — Contains screenshots of SQL queries and the data imported into MySQL.
 
 ### PostgreSQL Files
 
