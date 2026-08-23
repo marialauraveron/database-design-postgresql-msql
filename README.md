@@ -59,3 +59,11 @@ The project involves centralizing these data sources into a relational database.
 - pgAdmin
 - phpMyAdmin
 - CSV
+
+## Repository Structure
+
+The repository is organized as follows:
+
+- **ERD/** — Contains the Entity-Relationship Diagram (ERD) of the database.
+- **PostgreSQL/** — Contains the SQL scripts used to create the database structure and load the data.
+- **exports/** — Contains the datasets exported from the PostgreSQL view and materialized view.
