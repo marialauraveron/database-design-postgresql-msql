@@ -67,3 +67,39 @@ The repository is organized as follows:
 - **ERD/** — Contains the Entity-Relationship Diagram (ERD) of the database.
 - **PostgreSQL/** — Contains the SQL scripts used to create the database structure and load the data.
 - **exports/** — Contains the datasets exported from the PostgreSQL view and materialized view.
+
+### PostgreSQL Files
+
+- **`GeneratedScript.sql`** — Contains the SQL script generated from the ERD to create the database tables, primary keys, foreign keys, and relationships.
+
+- **`CoffeeData.sql`** — Contains the data used to populate the PostgreSQL database.
+
+### Exported Data
+
+- **`staff_locations_view.csv`** — Contains the data exported from the PostgreSQL view created to provide staff and location information.
+
+- **`product_info_m-view.csv`** — Contains the data exported from the PostgreSQL materialized view created to provide product information.
+
+## Database Tables
+
+The PostgreSQL database includes the following tables:
+
+- `staff`
+- `sales_outlet`
+- `customer`
+- `sales_transaction`
+- `sales_detail`
+- `product`
+- `product_type`
+
+### Table Description
+
+| Table | Description |
+|---|---|
+| `staff` | Stores information about the coffee shop employees. |
+| `sales_outlet` | Stores information about the different sales locations. |
+| `customer` | Stores customer information. |
+| `sales_transaction` | Stores information about sales transactions. |
+| `sales_detail` | Stores the details associated with each sales transaction. |
+| `product` | Stores information about the products sold by the company. |
+| `product_type` | Stores information used to classify the different products. |
