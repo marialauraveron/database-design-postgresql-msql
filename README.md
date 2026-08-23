@@ -21,7 +21,7 @@ The database structure was designed using an Entity-Relationship Diagram (ERD) i
 
 ### Entity-Relationship Diagram
 
-![Database ERD](ERD/database_erd.jpg)
+![database erd](ERD/database_erd.jpg)
 ## Project Objectives
 
 The main objectives of the project were:
