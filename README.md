@@ -21,7 +21,8 @@ The database structure was designed using an Entity-Relationship Diagram (ERD) i
 
 ### Entity-Relationship Diagram
 
-![DataBase-ERD](database-design-postgresql-mysql/database_erd.jpg)
+![Database ERD](ERD/database_erd.jpg)
+
 ## Project Objectives
 
 The main objectives of the project were:
